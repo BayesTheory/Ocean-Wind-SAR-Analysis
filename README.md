@@ -20,8 +20,5 @@ Restantes com Pip: Para as bibliotecas que precisam ser instaladas com o pip, us
 	pip install xsarsea
 	
 	Execute Seu Código:
-Salve seu código em um arquivo .py (por exemplo, my_windfield.py). Navegue até o diretório onde seu código está salvo. Execute seu código usando:
-python my_windfield.py
 
-Lembre-se de substituir my_windfield.py pelo nome real do seu script Python. Se você encontrar algum problema, consulte a documentação de cada biblioteca
 
