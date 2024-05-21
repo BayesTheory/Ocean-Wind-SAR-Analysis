@@ -12,13 +12,14 @@ Instale as Bibliotecas Necessárias com Conda: Abra um terminal ou prompt de com
 	conda install dask
 
 
-	Instale as Bibliotecas
+Instale as Bibliotecas
 Restantes com Pip: Para as bibliotecas que precisam ser instaladas com o pip, use os comandos a seguir:
-	pip install python-snappy
+	
+ 	pip install python-snappy
 	pip install xsar
 	pip install xsar[S1,RS2,RCM]
 	pip install xsarsea
 	
-	Execute Seu Código:
+Execute Seu Código:
 
 
