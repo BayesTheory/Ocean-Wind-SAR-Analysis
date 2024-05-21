@@ -1,0 +1,10 @@
+xarray==2024.3.0
+xsar==2024.2.1
+xsarsea==0.9
+numpy==1.26.4
+scipy
+os
+time
+holoviews
+geoviews
+matplotlib
