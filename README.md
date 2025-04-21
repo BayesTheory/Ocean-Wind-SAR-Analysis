@@ -72,8 +72,6 @@ Recomenda-se o uso de um ambiente virtual (como Conda ou venv) para gerenciar as
     ```
 3.  Abra o notebook `analise_vento_furacao.ipynb` (ou o nome correto) e execute as células.
 
-*(Opcional: Adicionar informações sobre onde obter dados de exemplo ou quais dados são necessários para rodar o notebook).*
-
 ## Exemplo de Saída
 
 ![WindField Points with Angle Direction (deg)](https://github.com/BayesTheory/xsar/assets/47011842/026fc43f-1ea9-4f85-b3bc-49345d25803d)
