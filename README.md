@@ -78,7 +78,5 @@ Recomenda-se o uso de um ambiente virtual (como Conda ou venv) para gerenciar as
 
 ![WindField Points with Angle Direction (deg)](https://github.com/BayesTheory/xsar/assets/47011842/026fc43f-1ea9-4f85-b3bc-49345d25803d)
 
-## Licença
 
-Distribuído sob a licença XYZ. Veja `LICENSE` para mais informações. *(Adicione um arquivo LICENSE se ainda não houver)*.
 
